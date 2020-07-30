@@ -1,6 +1,6 @@
 {
   "port" : 5000,
-  "mongoUri": "<enter you URI>",
+  "mongoUri": "mongodb+srv://",
   "jwtSecret": "jwtSecret",
   "minPasswordLength": 6,
   "jwtExpiresIn": "8h"
